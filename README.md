@@ -246,6 +246,7 @@ You can also see my other apps ahivh will help you tho study different engineeri
 
 It Will Provide You With All The Needed Resources To Follow Your Passion And Start Now 💙
 It Contains:
+
 - Most Of Engineering Technical And Nontechnical Tracks And Resources
 - Updated Tasks For All The Committees
 - Direct Chats Within The Application
