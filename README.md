@@ -239,11 +239,41 @@ Problem Solving Guide             |  Problem Solving Guide
 
 
 
-## App on google Play store
+## Encourage your knowldege 
+You can also see my other apps ahivh will help you tho study different engineering travcks/
 
+1- IEE App on google Play store
+
+It Will Provide You With All The Needed Resources To Follow Your Passion And Start Now 💙
+It Contains:
+- Most Of Engineering Technical And Nontechnical Tracks And Resources
+- Updated Tasks For All The Committees
+- Direct Chats Within The Application
+- IEEE BUSB News Within The App
+- Direct Contact With All The Mentors
+And a Lot More Features To Be Reviled ... ❤️❤️❤️
 You Can Download The App Now From Google play:
+
 https://play.google.com/store/apps/details...
 
 https://user-images.githubusercontent.com/80456446/124984858-044fdd80-e03a-11eb-908b-e05f4ca8edd6.mp4
 
 
+
+2- Pixels App 
+
+“Pixels Egypt” mobile app is considered an important and easy way to stay in touch with us.
+
+The app will help you to:
+
+- Browse different online courses and resources in different fields like Computer, Communication, Power, and Mechanical Engineering.
+- You will find courses, videos, books and more.
+- Follow our news.
+- Share our knowledge.
+- Be one of the family.
+
+Get it now on Google Play:
+
+https://play.google.com/store/apps/details
+
+![187960930_3955292401216930_6844533153445761662_n](https://user-images.githubusercontent.com/80456446/124113684-00392400-da6c-11eb-8779-cea0193eefb6.jpg)
