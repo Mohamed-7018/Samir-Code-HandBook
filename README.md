@@ -240,7 +240,7 @@ Problem Solving Guide             |  Problem Solving Guide
 
 
 ## Encourage your knowldege 
-You can also see my other apps ahivh will help you tho study different engineering travcks/
+You can also see my other apps ahivh will help you tho study different engineering tracks
 
 1- IEE App on google Play store
 
