@@ -47,14 +47,26 @@ https://www.linkedin.com/in/mohamed-samir-9b0b2a203
 https://www.facebook.com/mohamed.almasri.5686/
 
 
-- Instagram:
-
-https://www.instagram.com/mohamed_samir_7018/
-
-
 - Phone number:
 
 +2 01006074955
+
+// ---------------------------------------------------------- OR ----------------------------------------------//
+
+Contact with Nadin Ashraf Adeeb, and here are her contacts:
+
+- LinkedIn
+
+https://www.linkedin.com/in/nadine-ashraf-988b98201
+
+- Facebook:
+
+https://www.facebook.com/nadin.ashraf.56829
+
+
+
+
+
 
 ![poem-keeping-the-flame](https://user-images.githubusercontent.com/80456446/134222651-3edfbcf9-2e49-4fa2-8412-8a1a3ac4635b.png)
 
@@ -293,6 +305,10 @@ You can also find more courses in my apps
 Make star to my repo and following me in github and different Social Media would help me to continue.
 ![1_TcdcC2gXNwtnLzsp6GXe1g](https://user-images.githubusercontent.com/80456446/134283879-11c9a3ae-65e4-416e-b3e6-dd8137b991e8.png)
 
+
+## Author(s)
+- Mohamed Samir Salem Hassan
+- Nadine Ashraf Adeeb
 
 ## License & Accesability
 
